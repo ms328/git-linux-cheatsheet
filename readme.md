@@ -14,5 +14,4 @@ grep --> Searches text in files
 
 Git
 git init --> Initializes a new Git repository
-
- 
+git status --> Shows the working tree and staging status 
