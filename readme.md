@@ -1,3 +1,7 @@
 Linux and Git Command Cheat Sheet
-ls- l Lists the files in the current directory
-cd changes directory
+
+Linux
+ls- l -->  Lists the files in the current directory
+cd -->  changes directory
+mkdir -->  creates a new directory
+
