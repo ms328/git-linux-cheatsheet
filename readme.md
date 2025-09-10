@@ -16,4 +16,5 @@ Git
 git init --> Initializes a new Git repository
 git status --> Shows the working tree and staging status
 git add --> Stages changes for the next commit
-git commit --> Saves staged changes as a commit  
+git commit --> Saves staged changes as a commit
+git branch --> lists branches (-a for all -d to delete local)  
