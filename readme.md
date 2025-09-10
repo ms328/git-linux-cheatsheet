@@ -8,4 +8,5 @@ pwd --> Prints the current working directory
 touch  --> Creates an empty file or updates its timestamp
 rm --> Deletes a file (use r for directories)
 cp --> Copies files (use r for directories)
-mv --> Moves or renames files and directories 
+mv --> Moves or renames files and directories
+cat --> Displays the contents of a file 
