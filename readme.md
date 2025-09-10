@@ -15,4 +15,5 @@ grep --> Searches text in files
 Git
 git init --> Initializes a new Git repository
 git status --> Shows the working tree and staging status
-git add --> Stages changes for the next commit  
+git add --> Stages changes for the next commit
+git commit --> Saves staged changes as a commit  
